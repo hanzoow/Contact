@@ -1,0 +1,17 @@
+D:\c#\Contact\Contact\obj\Debug\Contact.csprojAssemblyReference.cache
+D:\c#\Contact\Contact\obj\Debug\Contact.Form1.resources
+D:\c#\Contact\Contact\obj\Debug\Contact.Properties.Resources.resources
+D:\c#\Contact\Contact\obj\Debug\Contact.csproj.GenerateResource.cache
+D:\c#\Contact\Contact\bin\Debug\Contact.exe.config
+D:\c#\Contact\Contact\bin\Debug\Contact.exe
+D:\c#\Contact\Contact\bin\Debug\Contact.pdb
+D:\c#\Contact\Contact\obj\Debug\Contact.exe
+D:\c#\Contact\Contact\obj\Debug\Contact.pdb
+D:\c#\Contact\Contact\bin\Debug\EntityFramework.dll
+D:\c#\Contact\Contact\bin\Debug\EntityFramework.SqlServer.dll
+D:\c#\Contact\Contact\bin\Debug\EntityFramework.xml
+D:\c#\Contact\Contact\bin\Debug\EntityFramework.SqlServer.xml
+D:\c#\Contact\Contact\obj\Debug\Contact.ThemLienLac.resources
+D:\c#\Contact\Contact\obj\Debug\Contact.ThemNhom.resources
+D:\c#\Contact\Contact\obj\Debug\Contact.csproj.CopyComplete
+D:\c#\Contact\Contact\obj\Debug\Contact.Migrations.MyFirstMigration.resources
